@@ -107,7 +107,7 @@ ${RESET}"
 
 
 #-----------------------------------------------------end----------------------------------------------------------#
-read -p "${BOLD}${RED}Subscribe to Quicklab [y/n] : ${RESET}" CONSENT_REMOVE
+read -p "${BOLD}${RED}Subscribe to Qwiklab_Explorers_TS [y/n] : ${RESET}" CONSENT_REMOVE
 
 while [ "$CONSENT_REMOVE" != 'y' ]; do
   sleep 10
